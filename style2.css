@@ -1,0 +1,31 @@
+table, td{
+    border: 1px solid #000;
+font-size: 50px;
+font-family:sans-serif;
+}
+
+td{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+.tet {
+    background-color: rgb(70, 196, 189);
+    
+}
+
+.w td{
+    width: 150px;
+}
+
+table .minwidth{
+    width: 50px;
+}
+table .minhight{
+    width: 50px;
+}
+.sa {
+background-color: rgb(47, 78, 124);
+color: rgb(255, 255, 255);
+}
+

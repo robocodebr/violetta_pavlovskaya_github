@@ -1,0 +1,20 @@
+*{
+    border: 1px solid #000;
+}
+
+li{
+    background-color: bisque;
+
+}
+ul{
+    background-color: burlywood;
+}
+
+.item{
+    color:rgb(85, 35, 0);
+}
+#last{
+    text-align: end;
+    font-size: 14px;
+    font-weight: 800
+}
